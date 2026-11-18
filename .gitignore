@@ -1,0 +1,7 @@
+raw/
+research*/
+backup*/
+*.log
+.DS_Store
+preview.html
+*.pdf
